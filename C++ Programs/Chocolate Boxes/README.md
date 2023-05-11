@@ -1,4 +1,4 @@
-##Chocolate Boxes
+## Chocolate Boxes
 
 'Camp Wonder' is a summer camp program organized for kids for 5 days. The organizers have planned to conduct various games for the kids each day. On the last day, they planned a different game, where each kid is given an N number of boxes. Each box contains a bunch of chocolates. The kids will get the box one after another and whenever they get a box with an odd number of chocolates, then they have to destroy the first box they got. After getting all the boxes, they have to display the number of chocolates in each box they have. How will you implement the above scenario using a C++ data structure?
 
