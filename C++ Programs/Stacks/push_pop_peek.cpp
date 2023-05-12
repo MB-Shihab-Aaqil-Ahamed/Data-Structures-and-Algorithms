@@ -89,6 +89,7 @@ int main() {
   st.push(5);
   st.push(9);
   int value = st.pop();
+  
   if (value != -1) {
     cout << "\nDeleted element: " << value;
   }
